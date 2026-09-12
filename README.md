@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1321-restaurant-growth](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/1321-restaurant-growth) |
+| [1795-rearrange-products-table](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/1795-rearrange-products-table) |
 ## Array
 |  |
 | ------- |
